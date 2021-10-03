@@ -1,4 +1,4 @@
-# Movie App 
+# Movies App 
 **Main technologies used**
 ______________________
 ```
@@ -44,24 +44,19 @@ run yarn run test to run all unit test suites.
 
 **Used dependencies**
 ________________________
-`   "@react-native-community/async-storage": "^1.12.1",
-    "@react-native-community/masked-view": "^0.1.10",
-    "@react-navigation/native": "^5.8.10",
-    "@react-navigation/stack": "^5.12.8",
-    "@testing-library/react-native": "^7.1.0",
+`    "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/stack": "^5.14.5",
     "axios": "^0.21.1",
-    "react": "16.13.1",
-    "react-native": "0.63.4",
-    "react-native-gesture-handler": "^1.9.0",
-    "react-native-reanimated": "^1.13.2",
-    "react-native-responsive-screen": "^1.4.2",
-    "react-native-safe-area-context": "^3.1.9",
-    "react-native-screens": "^2.16.1",
-    "react-redux": "^7.2.2",
-    "redux": "^4.0.5",
-    "redux-logger": "^3.0.6",
-    "redux-persist": "^6.0.0",
-    "redux-thunk": "^2.3.0" 
+    "react": "17.0.1",
+    "react-native": "0.64.1",
+    "react-native-fast-image": "^8.3.4",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-reanimated": "^2.2.0",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-screens": "^3.4.0",
+    "react-native-segmented-control-tab": "^3.4.1",
+    "react-query": "^3.25.0"
     `
 ______________________________
 
